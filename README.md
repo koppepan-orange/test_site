@@ -1,8 +1,3 @@
-# test_site
-これは、試験的に作られたサイトで、
-特に何もできません。
-「サイト作ってみたいな...」っていう愚かな考えからですね。
-
 <html>
     <head>
         <title>Koppepan Orange's site</title>
