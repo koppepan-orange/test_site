@@ -42,12 +42,12 @@
                 <input type="text"  size="30">
                 (1)
                 <br>
-                <textarea rows="12" cols="40"></textarea>
+                <textarea rows="12" cols="35"></textarea>
                 <br><br>
                 <input type="text"  size="30">
                 (2)
                 <br>
-                <textarea rows="10" cols="40"></textarea></form></p>
+                <textarea rows="10" cols="35"></textarea></form></p>
             <!--人物紹介は一番下に配置すること-->
         <br>
         <br>
