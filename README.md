@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title>Koppepan Orange's site</title>
         <meta charset="UTF-8">
     </head>
     <body bgcolor="#f9d793" link="#009D5B" vlink="#F68B1F">
