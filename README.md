@@ -56,7 +56,7 @@
         </div>
     </div>
     <script>
-        const number = document.querySelector('p');
+        const number = document.querySelector('pre');
         const plusButton = document.querySelector('#increment');
         let count = 0;
         plusButton.addEventListener('click', () => {
