@@ -50,7 +50,7 @@
                 <textarea rows="10" cols="35"></textarea></form></p>
         <p align="center">clicker
             <div class="container">
-        <p>0</p>
+        <pre>0</pre>
         <div class="buttons">
           <button id="increment">+</button>
         </div>
