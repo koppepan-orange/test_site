@@ -48,45 +48,23 @@
                 (2)
                 <br>
                 <textarea rows="10" cols="35"></textarea></form></p>
-            <!--人物紹介は一番下に配置すること-->
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <p align="center">人物紹介
-            <br><details><summary>み1</summary><i>矢野みらい</i><br>
-            2-2の女子中学生。合唱部で優勝経験あり<br>
-            小学生の頃一人称"僕"だったが、<br>最近は"自分"になった。"僕"は嫌だったのかな<br>
-            全く話せてなく、嫌われてるのかな<br>と思ったが怖がられているだけという説も出てきた。</details>
-            <br><details><summary>み2</summary><i>松田美月</i><br>
-            2-6の女子中学生。美術部で絵が上手い<br>
-            怖がられてるっぽいけど、<br>たまーに話しかけてくれるので嬉しい</details></p>
+        <p align="center">clicker
+                <div class="container">
+        <h1>0</h1>
+        <div class="buttons">
+          <button id="increment">+</button>
+        </div>
+      </div>
+<script>const number = document.querySelector('h1');
+const plusButton = document.querySelector('#increment');
+
+let count = 0;
+
+plusButton.addEventListener('click', () => {
+    count ++; 
+    number.innerHTML = count;
+});
+</script>
+        </p>
     </body>
 </html>
