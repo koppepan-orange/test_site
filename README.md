@@ -50,13 +50,13 @@
                 <textarea rows="10" cols="35"></textarea></form></p>
         <p align="center">clicker
             <div class="container">
-        <h1>0</h1>
+        <p>0</p>
         <div class="buttons">
           <button id="increment">+</button>
         </div>
-        </div>
-        <script>
-        const number = document.querySelector('h1');
+    </div>
+    <script>
+        const number = document.querySelector('p');
         const plusButton = document.querySelector('#increment');
         let count = 0;
         plusButton.addEventListener('click', () => {
