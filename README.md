@@ -8,8 +8,8 @@
 <hr noshade="true">
         <p align="center">よく使うサイトたち
             <details><summary>memos</summary><a href="http://www.drpartners.jp/tools/browser-memocho.htm">ブラウザメモ帳</a>
-            <br><a href="https://memo.onl.jp/?6xziZuYNX1">メモweb</a>
-            <br><a href="https://file.onl.jp/?6xziZuYNX1">ファイルweb</a>
+            <br><a href="https://memo.onl.jp/?5081kouhei">メモweb</a>
+            <br><a href="https://file.onl.jp/?5081kouhei">ファイルweb</a>
             <br><a href="https://write-box.appspot.com/">writebox</a></details>
             <br><details><summary>tools</summary><a href="https://anagram.httqs.com/">アナグラム生成機</a>
             <br><a href="https://jp.piliapp.com/random/wheel/">ルーレット等生成機</a>
