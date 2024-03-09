@@ -15,7 +15,7 @@
             <br><a href="https://jp.piliapp.com/random/wheel/">ルーレット等生成機</a>
             <br><a href="https://www.color-site.com/">カラーサイト</a>
             <br><a href="https://123apps.com/ja/">mp3、mp4編集サイト</a></details>
-            <br><details><summary>makes</summary><a href="https://scratch.mit.edu/users/koppepannopc/">scratch</a>
+            <br><details><summary>makes</summary><a href="https://scratch.mit.edu/users/koppepan_orange/">scratch</a>
             <br><a href="https://flat.io/ja">flat</a>
             <br><a href="https://musescore.com/user/41107809">musescore</a>
             <br><a href="https://pixnote.net/">pixnote</a>
