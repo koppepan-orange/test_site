@@ -34,7 +34,8 @@
             <br><a href="https://twitter.com/koppepan_orange">twitter</a>
             <br><a href="https://www.youtube.com/channel/UCFvmwWDRrVqM22icC7QLx1w">youtube</a>
             <br><a href="https://lit.link/koppepanorange">lit.link</a>
-            <br><a href="https://kiite.jp/user/koppapan_orange">kiite</a></details>
+            <br><a href="https://kiite.jp/user/koppapan_orange">kiite</a>
+            <br><a href="https://draw.kuku.lu/p/koppepanorange/">MagicalDraw</a></details>
             <br><details><summary>games</summary><a href="https://cybercodeonline.com">cybercodeonline</a>
             <br><a href="https://sdin.jp/browser/">browsergame</a>
             <br><a href="https://www.arealme.com/">ARealMe</a></details></p>
