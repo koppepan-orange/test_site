@@ -8,8 +8,8 @@
 <hr noshade="true">
         <p align="center">よく使うサイトたち
             <details><summary>memos</summary><a href="http://www.drpartners.jp/tools/browser-memocho.htm">ブラウザメモ帳</a>
-            <br><a href="https://memo.onl.jp/?5081kouhei">メモweb</a>
-            <br><a href="https://file.onl.jp/?5081kouhei">ファイルweb</a>
+            <br><a href="https://memo.onl.jp/?koppepan23">メモweb</a>
+            <br><a href="https://file.onl.jp/?koppepan23">ファイルweb</a>
             <br><a href="https://write-box.appspot.com/">writebox</a></details>
             <br><details><summary>tools</summary><a href="https://anagram.httqs.com/">アナグラム生成機</a>
             <br><a href="https://jp.piliapp.com/random/wheel/">ルーレット等生成機</a>
@@ -27,7 +27,7 @@
             <br><details><summary>SNSes</summary><a href="https://www.reddit.com/user/koppepan_orange/">reddit</a>
             <br><a href="https://github.com/koppepan-orange">github</a>
             <br><a href="https://discord.com/channels/@me">discord</a>
-            <br><a href="https://chat.onl.jp/?5081kouhei">CHATweb</a>
+            <br><a href="https://chat.onl.jp/?koppepan23">チャットweb</a>
             <br><a href="https://www.pixiv.net/users/75087880">pixiv</a>
             <br><a href="https://www.twitch.tv/koppepan_orange">twitch</a>
             <br><a href="https://www.instagram.com/koppepan_orange/">instagram</a>
